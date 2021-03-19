@@ -1,0 +1,57 @@
+[
+  {
+    "flexDate": "2020-06-01T00:00:00",
+    "employeeNo": "E00001",
+    "fullName": "王00001",
+    "birthDate": "1979-05-21T00:00:00",
+    "category": "EMP",
+    "nationality": "中国",
+    "flexSalary": 9690.00,
+    "bool1": true,
+    "salary": 0.0
+  },
+  {
+    "flexDate": "2020-06-01T00:00:00",
+    "employeeNo": "E00002",
+    "fullName": "张00001",
+    "birthDate": "1979-01-04T00:00:00",
+    "category": "EMP",
+    "nationality": "中国",
+    "flexSalary": 6250.00,
+    "bool1": false,
+    "salary": 0.0
+  },
+  {
+    "flexDate": "2020-06-01T00:00:00",
+    "employeeNo": "E00003",
+    "fullName": "冯00001",
+    "birthDate": "1980-01-28T00:00:00",
+    "category": "EMP",
+    "nationality": "",
+    "flexSalary": 5350.00,
+    "bool1": false,
+    "salary": 0.0
+  },
+  {
+    "flexDate": "2020-06-01T00:00:00",
+    "employeeNo": "E00004",
+    "fullName": "余00001",
+    "birthDate": "1962-02-03T00:00:00",
+    "category": "PT",
+    "nationality": "中国",
+    "flexSalary": 30.00,
+    "bool1": false,
+    "salary": 0.0
+  },
+  {
+    "flexDate": "2020-06-01T00:00:00",
+    "employeeNo": "E00005",
+    "fullName": "叶00001",
+    "birthDate": "1972-06-15T00:00:00",
+    "category": "EXE",
+    "nationality": "中国香港特别行政区",
+    "flexSalary": 229840.35,
+    "bool1": false,
+    "salary": 0.0
+  }
+]

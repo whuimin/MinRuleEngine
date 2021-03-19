@@ -1,0 +1,3 @@
+Employee employee;
+var categories = ["EMP", "DIR", "EXE"];
+categories.Contains(employee.Category) && (employee.FlexAgeLastBirthday >= 18 && employee.FlexAgeLastBirthday <= 70) && (employee.Bool1 == null || employee.Bool1 == false);

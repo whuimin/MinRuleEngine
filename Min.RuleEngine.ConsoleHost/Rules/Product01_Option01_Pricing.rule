@@ -1,0 +1,3 @@
+Employee employee;
+when(employee.FlexSalary * 8.7 * 12 / 10000 < 87) then(87);
+else(employee.FlexSalary * 8.7 * 12 / 10000);

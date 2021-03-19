@@ -1,0 +1,2 @@
+Employee employee;
+employee.Category == "EXE" && (employee.FlexAgeLastBirthday >= 18 && employee.FlexAgeLastBirthday <= 75) && (employee.Bool1 == null || employee.Bool1 == false);
