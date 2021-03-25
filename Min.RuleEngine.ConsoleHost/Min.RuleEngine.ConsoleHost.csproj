@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Huimin Wang</Authors>
+    <Company>Min Studio</Company>
   </PropertyGroup>
 
   <ItemGroup>
